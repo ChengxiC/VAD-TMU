@@ -25,6 +25,19 @@ The code is developed under the following environment:
   - pyyaml>=6.0
   - torchvision
 
+## Features
+The pre-extracted I3D features for the UCF-Crime, UBnormal, MSAD and UBnormal datasets can be downloaded from the following link:
+
+[UCF-Crime 10-crop I3D features](https://github.com/Roc-Ng/DeepMIL)
+
+[UBnormal 10-crop I3D features](https://github.com/nwpu-zxr/VadCLIP)
+
+[MSAD 10-crop I3D features](https://github.com/nwpu-zxr/VadCLIP)
+
+[SDnormal 10-crop I3D features](https://github.com/ChengxiC/SD-main)
+
+After downloading, place the feature files in the corresponding dataset.
+
 ## Train and Test
 Run the following commands:
 
@@ -34,17 +47,17 @@ training: python ucf_main.py
 
 Inference: python ucf_eval.py
 
-######################## MSAD ###################
-
-training: python msad_main.py
-
-Inference: python msad_eval.py
-
 ######################## UBnormal ###################
 
 training: python ubnormal_main.py
 
 Inference: python ubnormal_eval.py
+
+######################## MSAD ###################
+
+training: python msad_main.py
+
+Inference: python msad_eval.py
 
 ######################## SDnormal ###################
 
