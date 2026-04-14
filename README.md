@@ -24,3 +24,42 @@ The code is developed under the following environment:
   - pandas>=1.5
   - pyyaml>=6.0
   - torchvision
+
+## Train and Test
+Run the following commands:
+
+######################## UCF-Crime ###################
+
+training: python ucf_main.py
+
+Inference: python ucf_eval.py
+
+######################## MSAD ###################
+
+training: python msad_main.py
+
+Inference: python msad_eval.py
+
+######################## UBnormal ###################
+
+training: python ubnormal_main.py
+
+Inference: python ubnormal_eval.py
+
+######################## SDnormal ###################
+
+training: python sdn_main.py
+
+Inference: python sdn_eval.py
+
+## References
+Parts of the implementation are adapted from the following repositories:
+- [UR-DMU](https://github.com/henrryzh1/UR-DMU)
+- [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
+  
+We thank the authors for making their code publicly available.
+
+
+
+
+
