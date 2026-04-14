@@ -30,9 +30,9 @@ The pre-extracted I3D features for the UCF-Crime, UBnormal, MSAD and UBnormal da
 
 [UCF-Crime 10-crop I3D features](https://github.com/Roc-Ng/DeepMIL)
 
-[UBnormal 10-crop I3D features](https://github.com/nwpu-zxr/VadCLIP)
+[UBnormal 10-crop I3D features](https://drive.google.com/drive/folders/1OoZVF96L3JgYNLXDdYHZkwnd-aQPA-zH)
 
-[MSAD 10-crop I3D features](https://github.com/nwpu-zxr/VadCLIP)
+[MSAD 10-crop I3D features](https://drive.google.com/drive/folders/1EnS2OSxJhd10Qizj9HiypZrcCdJfhuee)
 
 [SDnormal 10-crop I3D features](https://github.com/ChengxiC/SD-main)
 
