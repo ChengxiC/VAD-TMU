@@ -1,0 +1,211 @@
+abnormal_scene_1_scenario_1 131 1 41 109
+abnormal_scene_1_scenario_2 151 1 45 120
+abnormal_scene_1_scenario_4 451 1 57 192
+abnormal_scene_1_scenario_5 451 1 58 125
+abnormal_scene_1_scenario_6 151 1 31 90
+abnormal_scene_1_scenario_7 151 1 29 76
+abnormal_scene_1_scenario_8 201 1 29 82 84 138
+abnormal_scene_1_scenario_9 451 1 175 228
+abnormal_scene_2_scenario_1 201 2 40 193
+abnormal_scene_2_scenario_4 451 2 0 450
+abnormal_scene_2_scenario_5 461 2 0 460
+abnormal_scene_2_scenario_6 445 2 165 444
+abnormal_scene_3_scenario_1 266 3 34 154
+abnormal_scene_3_scenario_2 216 3 29 145
+abnormal_scene_5_scenario_4 461 5 0 460
+abnormal_scene_5_scenario_5 491 5 174 490
+abnormal_scene_5_scenario_7 461 5 0 460
+abnormal_scene_5_scenario_8 481 5 290 480
+abnormal_scene_6_scenario_2 266 6 36 265
+abnormal_scene_6_scenario_3 451 6 168 450
+abnormal_scene_6_scenario_8 451 6 169 450
+abnormal_scene_7_scenario_1 445 7 51 430
+abnormal_scene_7_scenario_4 451 7 90 450
+abnormal_scene_7_scenario_5 451 7 0 450
+abnormal_scene_7_scenario_6 451 7 0 205
+abnormal_scene_7_scenario_7 451 7 31 203 291 394
+abnormal_scene_7_scenario_8 451 7 28 116 272 349
+abnormal_scene_7_scenario_9 451 7 178 378
+abnormal_scene_7_scenario_10 451 7 0 450
+abnormal_scene_9_scenario_3 451 9 0 450
+abnormal_scene_9_scenario_7 451 9 0 450
+abnormal_scene_9_scenario_8 451 9 96 200 292 382
+abnormal_scene_8_scenario_1 446 8 35 100 190 445
+abnormal_scene_8_scenario_2 461 8 31 141
+abnormal_scene_8_scenario_3 501 8 0 321
+abnormal_scene_8_scenario_4 451 8 125 450
+abnormal_scene_8_scenario_5 461 8 0 460
+abnormal_scene_10_scenario_1 451 10 0 450
+abnormal_scene_10_scenario_3 491 10 90 270 320 490
+abnormal_scene_10_scenario_4 451 10 0 240 242 450
+abnormal_scene_10_scenario_5 451 10 0 272
+abnormal_scene_10_scenario_6 501 10 0 500
+abnormal_scene_10_scenario_7 501 10 100 205 300 398
+abnormal_scene_10_scenario_8 451 10 189 450
+abnormal_scene_11_scenario_1 451 11 0 69 109 450
+abnormal_scene_11_scenario_2 451 11 27 103 111 172
+abnormal_scene_11_scenario_8 451 11 125 339
+abnormal_scene_11_scenario_9 451 11 93 302
+abnormal_scene_12_scenario_1 451 12 0 229
+abnormal_scene_12_scenario_2 451 12 80 263 310 450
+abnormal_scene_12_scenario_3 451 12 37 200 333 450
+abnormal_scene_12_scenario_4 451 12 0 203 237 450
+abnormal_scene_12_scenario_8 451 12 138 450
+abnormal_scene_13_scenario_1 451 13 40 450
+abnormal_scene_13_scenario_3 451 13 0 450
+abnormal_scene_13_scenario_4 451 13 0 450
+abnormal_scene_13_scenario_5 451 13 0 183
+abnormal_scene_13_scenario_8 451 13 40 175 235 355
+abnormal_scene_13_scenario_9 451 13 0 450
+abnormal_scene_17_scenario_2 451 17 28 105
+abnormal_scene_17_scenario_4 451 17 72 450
+abnormal_scene_17_scenario_5 451 17 0 450
+abnormal_scene_17_scenario_6 451 17 0 450
+abnormal_scene_17_scenario_7 451 17 0 450
+abnormal_scene_17_scenario_9 451 17 0 41 210 450
+abnormal_scene_15_scenario_1 451 15 12 146
+abnormal_scene_15_scenario_2 451 15 238 354 415 450
+abnormal_scene_15_scenario_3 451 15 6 233
+abnormal_scene_15_scenario_4 501 15 175 208
+abnormal_scene_15_scenario_5 451 15 194 301 388 450
+abnormal_scene_15_scenario_6 451 15 173 450
+abnormal_scene_15_scenario_8 451 15 0 370
+abnormal_scene_15_scenario_9 451 15 0 450
+abnormal_scene_18_scenario_5 451 18 0 203 289 398
+abnormal_scene_18_scenario_6 451 18 0 270
+abnormal_scene_18_scenario_7 451 18 0 450
+abnormal_scene_19_scenario_5 451 19 25 100
+abnormal_scene_19_scenario_6 451 19 150 450
+abnormal_scene_19_scenario_7 451 19 0 245
+abnormal_scene_19_scenario_8 451 19 0 390
+abnormal_scene_4_scenario_1 217 4 44 216
+abnormal_scene_4_scenario_4 451 4 97 263 324 450
+abnormal_scene_4_scenario_6 451 4 0 450
+abnormal_scene_21_scenario_1 451 21 35 136 160 450
+abnormal_scene_21_scenario_2 446 21 0 445
+abnormal_scene_21_scenario_3 451 21 0 450
+abnormal_scene_22_scenario_1 451 22 0 273
+abnormal_scene_22_scenario_2 451 22 91 450
+abnormal_scene_22_scenario_3 451 22 0 450
+abnormal_scene_22_scenario_4 451 22 0 271 284 284 294 450
+abnormal_scene_25_scenario_1 446 25 33 205 265 445
+abnormal_scene_25_scenario_3 451 25 0 450
+abnormal_scene_25_scenario_4 451 25 0 450
+abnormal_scene_20_scenario_1 451 20 0 78
+abnormal_scene_20_scenario_2 451 20 0 314 404 450
+abnormal_scene_20_scenario_3 451 20 0 230 280 450
+abnormal_scene_20_scenario_4 451 20 20 47 144 358
+abnormal_scene_26_scenario_1 451 26 0 272
+abnormal_scene_26_scenario_2 451 26 0 450
+abnormal_scene_26_scenario_3 451 26 72 250 289 450
+abnormal_scene_26_scenario_4 451 26 0 202
+abnormal_scene_24_scenario_1 451 24 0 450
+abnormal_scene_24_scenario_2 451 24 180 450
+abnormal_scene_24_scenario_3 451 24 43 189 365 450
+abnormal_scene_24_scenario_4 451 24 365 450
+abnormal_scene_14_scenario_5 451 14 47 450
+abnormal_scene_14_scenario_6 451 14 0 450
+abnormal_scene_14_scenario_7 451 14 0 450
+abnormal_scene_14_scenario_8 451 14 0 436
+abnormal_scene_16_scenario_2 451 16 56 111 251 450
+abnormal_scene_16_scenario_3 451 16 31 208 255 430
+abnormal_scene_16_scenario_4 451 16 0 26 30 450
+abnormal_scene_28_scenario_1 451 28 0 59 356 450
+abnormal_scene_28_scenario_2 451 28 95 202 207 312 405 450
+abnormal_scene_28_scenario_3 451 28 125 198 270 450
+abnormal_scene_28_scenario_4 451 28 175 450
+abnormal_scene_8_scenario_1_fog 446 8 169 445
+abnormal_scene_8_scenario_2_fog 461 8 10 460
+abnormal_scene_27_scenario_2 451 27 0 450
+abnormal_scene_27_scenario_3 451 27 289 450
+abnormal_scene_27_scenario_4 451 27 0 165 185 450
+abnormal_scene_29_scenario_1 451 29 278 450
+abnormal_scene_29_scenario_2 451 29 93 264 323 450
+abnormal_scene_29_scenario_3 451 29 0 241 269 450
+abnormal_scene_29_scenario_4 451 29 192 450
+abnormal_scene_11_scenario_1_fog 451 11 51 450
+abnormal_scene_11_scenario_2_fog 451 11 8 45 114 170
+abnormal_scene_13_scenario_1_fog 451 13 68 450
+abnormal_scene_13_scenario_2_fog 451 13 0 450
+abnormal_scene_13_scenario_3_fog 451 13 0 450
+abnormal_scene_13_scenario_4_fog 451 13 0 230
+abnormal_scene_23_scenario_1 451 23 266 450
+abnormal_scene_23_scenario_2 451 23 98 198 294 373 383 392
+abnormal_scene_23_scenario_3 451 23 48 450
+abnormal_scene_23_scenario_4 451 23 254 450
+abnormal_scene_9_scenario_2_fog 451 9 0 390
+abnormal_scene_9_scenario_4_fog 451 9 94 208 294 400
+abnormal_scene_7_scenario_1_fog 451 7 177 450
+abnormal_scene_7_scenario_4_fog 451 7 121 450
+abnormal_scene_4_scenario_1_fire 451 4 0 450
+abnormal_scene_4_scenario_2_fire 451 4 0 450
+abnormal_scene_5_scenario_1_smoke 451 5 0 450
+abnormal_scene_5_scenario_2_smoke 451 5 0 450
+abnormal_scene_7_scenario_1_fire 451 7 0 450
+abnormal_scene_7_scenario_2_smoke 451 7 0 450
+abnormal_scene_12_scenario_1_smoke 451 12 0 450
+abnormal_scene_17_scenario_1_smoke 451 17 0 450
+abnormal_scene_17_scenario_2_fire 451 17 0 450
+abnormal_scene_27_scenario_1_smoke 451 27 0 450
+abnormal_scene_27_scenario_2_fire 451 27 0 450
+abnormal_scene_29_scenario_1_smoke 451 29 0 450
+abnormal_scene_29_scenario_2_smoke 451 29 168 450
+abnormal_scene_3_scenario_6 451 3 166 450
+abnormal_scene_7_scenario_2 451 7 65 450
+abnormal_scene_12_scenario_9 461 12 168 460
+abnormal_scene_7_scenario_2_fog 451 7 56 320
+abnormal_scene_7_scenario_3 451 7 0 450
+abnormal_scene_7_scenario_3_fog 451 7 0 450
+normal_scene_18_scenario_4 451 0 0 450
+normal_scene_24_scenario_6 451 0 0 450
+normal_scene_3_scenario_7 451 0 0 450
+normal_scene_26_scenario_8 451 0 0 450
+normal_scene_15_scenario_6 451 0 0 450
+normal_scene_22_scenario_5 451 0 0 450
+normal_scene_29_scenario_1 451 0 0 450
+normal_scene_9_scenario_4_fog 451 0 0 450
+normal_scene_4_scenario_1 445 0 0 444
+normal_scene_20_scenario_4 451 0 0 450
+normal_scene_17_scenario_4 451 0 0 450
+normal_scene_27_scenario_4 451 0 0 450
+normal_scene_17_scenario_3_1 451 0 0 450
+normal_scene_3_scenario_5 451 0 0 450
+normal_scene_21_scenario_5 451 0 0 450
+normal_scene_7_scenario_4_fog 451 0 0 450
+normal_scene_12_scenario_2 451 0 0 450
+normal_scene_10_scenario_3 451 0 0 450
+normal_scene_13_scenario_1_fog 451 0 0 450
+normal_scene_21_scenario_3 451 0 0 450
+normal_scene_9_scenario_8 451 0 0 450
+normal_scene_24_scenario_1 451 0 0 450
+normal_scene_25_scenario_4 451 0 0 450
+normal_scene_14_scenario_2 451 0 0 450
+normal_scene_18_scenario_1 441 0 0 440
+normal_scene_11_scenario_2_fog 451 0 0 450
+normal_scene_9_scenario_1 451 0 0 450
+normal_scene_9_scenario_6 451 0 0 450
+normal_scene_3_scenario_1 266 0 0 265
+normal_scene_20_scenario_2 471 0 0 470
+normal_scene_10_scenario_2 451 0 0 450
+normal_scene_11_scenario_4_fog 451 0 0 450
+normal_scene_21_scenario_2 451 0 0 450
+normal_scene_8_scenario_2_fog 461 0 0 460
+normal_scene_4_scenario_8 451 0 0 450
+normal_scene_28_scenario_2 451 0 0 450
+normal_scene_23_scenario_5 451 0 0 450
+normal_scene_7_scenario_3 451 0 0 450
+normal_scene_17_scenario_2 451 0 0 450
+normal_scene_10_scenario_9 431 0 0 430
+normal_scene_26_scenario_4 451 0 0 450
+normal_scene_8_scenario_7 501 0 0 500
+normal_scene_10_scenario_8 451 0 0 450
+normal_scene_4_scenario_5 451 0 0 450
+normal_scene_29_scenario_6 451 0 0 450
+normal_scene_25_scenario_7 451 0 0 450
+normal_scene_1_scenario1_10 251 0 0 250
+normal_scene_23_scenario_7 451 0 0 450
+normal_scene_7_scenario_3_fog 451 0 0 450
+normal_scene_23_scenario_4 451 0 0 450
+normal_scene_14_scenario_4 451 0 0 450
+normal_scene_5_scenario_8 482 0 0 481
+normal_scene_20_scenario_9 451 0 0 450

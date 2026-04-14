@@ -1,0 +1,23 @@
+Train:
+  batch_size: 32
+  num_workers: 0
+  num_segments: 200
+  epochs: 30
+
+Test:
+  batch_size: 1
+  num_workers: 0
+  num_segments: 16
+
+Model:
+  type: 'weakly supervised video anomaly detection'
+  ckpt_path: './ckpt'
+  logger_path: './logger/logger_info.log'
+  gt_path: "frame_gt/gt_sdn.npy"
+  anno_path: './splits/SDnormal_eval.txt'
+  lr: 0.0001
+  seed: 100
+  use_gpu: True
+  a_nums: 60
+  n_nums: 60
+  x_nums: 20

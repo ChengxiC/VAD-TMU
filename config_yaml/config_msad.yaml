@@ -1,0 +1,23 @@
+Train:
+  batch_size: 16
+  num_workers: 0
+  num_segments: 20
+  epochs: 10
+
+Test:
+  batch_size: 1
+  num_workers: 0
+  num_segments: 32
+
+Model:
+  type: 'weakly supervised video anomaly detection'
+  ckpt_path: './ckpt'
+  logger_path: './logger/logger_info.log'
+  gt_path: "frame_gt/gt_msad.npy"
+  anno_path: './splits/MSAD_annotation.txt'
+  lr: 0.0001
+  seed: 1024
+  use_gpu: True
+  a_nums: 20
+  n_nums: 20
+  x_nums: 10
