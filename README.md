@@ -72,7 +72,21 @@ Parts of the implementation are adapted from the following repositories:
   
 We thank the authors for making their code publicly available.
 
+## Citation
 
+If you find this repository useful for your research, please consider citing our paper:
+
+```bibtex
+@article{Chu2027VADTMU,
+  title   = {{VAD-TMU}: Triple Memory Units and Quadruplet-based Contrastive Learning for Weakly Supervised Video Anomaly Detection},
+  author  = {Chu, Chengxi and Japar, Nurul and Lim, Chee Kau},
+  journal = {Expert Systems with Applications},
+  volume  = {332},
+  pages   = {133533},
+  year    = {2027},
+  issn    = {0957-4174},
+  doi     = {10.1016/j.eswa.2026.133533},
+}
 
 
 
